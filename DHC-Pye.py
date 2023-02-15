@@ -5,9 +5,9 @@ This program is a simple DHCP Server that listens for DHCP messages on a
 specific network interface and responds with basic DHCP options like IP
 address, subnet mask, and gateway.
 
-Author: [Your Name]
-Date: [Date]
-License: [License, if applicable]
+Author: Kris Armstrong
+Date: 1/1/2023
+License: Apache 2.0
 
 PEP 8 Compliance:
 - 4 spaces per indentation level
